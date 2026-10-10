@@ -15,6 +15,7 @@ This codebase implemetns a unified Network Access Control and Traffic Rule Evalu
 
 # Dependencies
   Standard Lua runtime (`lua` 5.1, 5.2, 5.3, 5.4 or `luajit`).
+  Go Compiler (Go 1.18+)
   Zero external C-libraries or third-party dependencies required.
 
 # Compilation and Execution
